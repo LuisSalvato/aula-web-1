@@ -1,0 +1,19 @@
+*{
+    padding: 0.05cm;
+    margin: 0.125cm;
+}
+
+body{
+    background-color: lightgray;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: crimson;
+    text-shadow: 2px 2px black;
+}
+label{
+    width: 140px;
+    display: inline-block;
+    text-align: right;
+}
